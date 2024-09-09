@@ -35,8 +35,8 @@ export default function Contact() {
         contact
       </h2>
       <p className="text-base text-primary mb-6">
-        Need a fast, fluid, and gorgeous website? Shoot me a message and we'll
-        see what's up.
+        Need a fast, fluid, and gorgeous website? Shoot me a message and we will
+        see what is up.
       </p>
       <div className="flex flex-col items-center">
         <div className="w-full">
