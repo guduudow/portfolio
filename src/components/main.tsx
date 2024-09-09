@@ -63,7 +63,7 @@ export default function Main() {
                 View Resume
               </Link>
               <div className="flex gap-4 px-8 py-3 bg-transparent text-lg md:text-[1.1em] font-bold text-primary rounded cursor-pointer flex-shrink-0">
-                <a href="https://www.linkedin/in/ederesgure">
+                <a href="https://www.linkedin.com/in/ederesgure">
                   <FaLinkedin className="w-10 md:w-12 h-10 md:h-12 text-primary" />
                 </a>
                 <a href="https://www.github.com/guduudow">

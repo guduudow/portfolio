@@ -20,7 +20,7 @@ export default function Footer() {
       </div>
       <div className="flex gap-4">
         <a
-          href="https://www.linkedin/in/ederesgure"
+          href="https://www.linkedin.com/in/ederesgure"
           className="text-background hover:text-white transition-colors"
         >
           <FaLinkedin className="w-8 h-8" />
