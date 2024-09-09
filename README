@@ -1,0 +1,7 @@
+# For understanding
+
+In src folder: there are three folders.
+
+- App: contains home page, layout, global css file and page routes
+- Components: will contain things that appear on pages for the purposes of keeping code clean and organized
+- Services: the JSON data for my projects.

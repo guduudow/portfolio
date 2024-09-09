@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "logo": "/slapscored.svg",
+    "name": "Slapscored",
+    "desc": "This is a fantasy hockey website, bulit with React, MongoDB, Express.JS and Node.js. This project uses JWT to authenticate users storing their information in a database. It also calls the official NHL API and stores the entire roster of teams, easily scalable to all 32 and account for season.",
+    "pagelink": "https://slapscored-live.vercel.app/",
+    "repolink": "https://github.com/guduudow/Slapscored"
+  },
+
+  {
+    "id": 2,
+    "logo": "/billevader.svg",
+    "name": "Bill Evader",
+    "desc": "A game created for the Global Game Jam! Play as Bill, a 20-something student desprately trying to avoid the expenses of adult life. Bulit with HTML, CSS, JavaScript and Canvas.",
+    "pagelink": "https://sionara.github.io/GGJ/",
+    "repolink": "https://github.com/sionara/GGJ"
+  },
+
+  {
+    "id": 3,
+    "logo": "/boulon.svg",
+    "name": "Boulon Store",
+    "desc": "Boulon: Fashion-forward web store built with Node.js, Pug, MongoDB Atlas, Bootstrap, and Express. Features home, men's, and women's sections for seamless browsing and shopping. Stylish, responsive, and user-friendly.",
+    "repolink": "https://github.com/guduudow/BoulonStore"
+  },
+
+  {
+    "id": 4,
+    "logo": "/pembroke.svg",
+    "name": "Pembroke's Compendium",
+    "desc": "Pembroke's Compendium is a powerful Node.js dictionary application designed to enhance your language exploration experience. With this app, users can seamlessly search for the meaning and translation of any word in English, expanding their linguistic horizons with ease.",
+    "repolink": "https://github.com/guduudow/PembrokesCompendium"
+  },
+
+  {
+    "id": 5,
+    "logo": "westsideluigis.svg",
+    "name": "West Side Luigi's",
+    "desc": "West Side Luigi's is a restaurant management system made with ASP.NET, Entity Framework and View Models. It offers CRUD operations for menu items, orders, and customer records, along with an admin login system. This project demonstrates efficient database management and code organization for creating a functional restaurant management application.",
+    "repolink": "https://github.com/guduudow/WestSideLuigis"
+  },
+
+  {
+    "id": 6,
+    "logo": "footlms.svg",
+    "name": "FootLMS",
+    "desc": "A full implementation of Laravel's CRUD using football players. Easily add any football star to the list, and any team. The application also as built in logic that will not show retirement dates for active players and associates players with teams in a way that prevents repeating data. Laravel's user authentication as has also been included in the project.",
+    "repolink": "https://github.com/guduudow/FootLMS"
+  }
+]

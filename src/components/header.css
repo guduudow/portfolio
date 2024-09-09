@@ -1,0 +1,94 @@
+.header {
+  height: 3.75rem;
+  display: flex;
+  align-items: center;
+  padding: 1em 2em;
+  top: 0;
+  z-index: 3;
+}
+
+.logo {
+  font-size: 4rem;
+  font-family: "DM Sans", system-ui;
+  font-weight: 600;
+  color: var(--main-color);
+  transform: rotate(-7deg);
+  display: inline-block;
+}
+
+.nav {
+  margin-left: auto;
+  margin-right: 2em;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list-item {
+  list-style: none;
+  margin: 0 2em;
+}
+
+.nav-link {
+  font-size: 1em;
+  font-weight: 400;
+  color: var(--main-color);
+  font-family: "Poppins", system-ui;
+  font-weight: 500;
+}
+
+.contact-me-btn {
+  border-radius: 1.5rem;
+  display: inline-block;
+  background-color: var(--main-color);
+  font-family: "Poppins", system-ui;
+  font-weight: 700;
+  color: var(--background-color);
+  padding: 0.625rem 1.5rem;
+  text-decoration: none;
+  transition: var(--main-color) 0.3s ease;
+}
+
+/* mobile nav */
+.burger {
+  display: none;
+  position: relative;
+  margin-left: auto;
+}
+
+.icon {
+  width: 1.5rem;
+}
+
+.mobile-menu {
+  text-align: right;
+  padding: 0 1.5em 1.5em 1.5em;
+  display: none;
+  background-color: --var(--background-color);
+  box-shadow: 0 0 0.625em 0 rgba(65, 46, 46, 0.2);
+  width: 9.375rem;
+  border-radius: 0.5rem;
+  position: absolute;
+  top: 2.188rem;
+  right: 0;
+}
+
+.mobile-nav-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.mobile-nav-list-item {
+  list-style: none;
+  margin: 1em 0;
+  text-align: right;
+}
+
+.mobile-nav-link {
+  font-size: 1em;
+  font-weight: 400;
+  color: var(--main-color);
+}
