@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className="bg-accent py-4 px-6 flex flex-col lg:flex-row lg:justify-between items-center space-y-4 lg:space-y-0">
       <div className="flex items-center gap-2 text-background">
         <PiCopyright className="text-lg" />
-        <span className="text-base font-medium">2025</span>
+        <span className="text-base font-medium">2026</span>
         <Image
           src="/name-secondary.svg"
           alt="name logo"
